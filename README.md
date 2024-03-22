@@ -354,7 +354,7 @@ if (responseCode === 200) {
 ### Request Method: DELETE
 ### Response Body: None 
 
- ## _**7. Deleted booking check **_
+ ## _**7. Deleted booking check**_
 
 ### Request URL: https://restful-booker.herokuapp.com/booking/bookingid
 ### Request Method: GET
