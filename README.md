@@ -377,10 +377,9 @@ newman run API_Testing_ZAFRIN.postman_collection.json -e API_Testing_01.postman_
 ```console 
 newman run API_Testing_ZAFRIN.postman_collection.json -e API_Testing_01.postman_environment.json -r cli,htmlextra
 ```
-
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/API_Testing-of-Booking-with-Newman-Report/assets/128959155/d56f889d-09ab-4fb2-a82a-a4b880c322b5)
-![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/API_Testing-of-Booking-with-Newman-Report/assets/128959155/08376213-fda6-40f5-8a85-dc569f47f12e)
-![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/API_Testing-of-Booking-with-Newman-Report/assets/128959155/90bff24e-0bcd-4b8b-af0e-0113214675b5)
-![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/API_Testing-of-Booking-with-Newman-Report/assets/128959155/7077cb5d-1544-4a8b-a7dc-e9135e6da474)
+![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/Collection_Booking-using-Postman-with-Newman-Report/assets/128959155/62ac3c65-9179-4958-ba92-e5b3e5e32f71)
+![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/Collection_Booking-using-Postman-with-Newman-Report/assets/128959155/328c861d-0356-4d41-9a14-41cf8b3bf467)
+![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/Collection_Booking-using-Postman-with-Newman-Report/assets/128959155/6796237b-94a5-477f-8546-78bffb3ca23b)
+![Newman Report Summary](https://github.com/Zafrin-Chowdhury-Joya/Collection_Booking-using-Postman-with-Newman-Report/assets/128959155/c27ef392-26b4-48db-983d-1cfe03b95f47)
 
